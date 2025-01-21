@@ -9,8 +9,6 @@
 .history
 .svn/
 .gradle/
-.vscode/launch.json
-.vscode/
 
 # IntelliJ related
 *.iml
@@ -30,3 +28,5 @@
 .dart_tool/
 .packages
 build/
+config.bat
+node_modules
